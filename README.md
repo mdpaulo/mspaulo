@@ -1,7 +1,7 @@
 ### :computer: General Metrics infos
 
 <center>
-<table>
+<table style="overflow-x: hidden;">
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=mspaulo&show_icons=true&theme=radical&layout=compact" /></td>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mspaulo&show_icons=true&theme=radical&layout=compact" /></td>
